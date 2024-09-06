@@ -46,6 +46,8 @@
         }
     });
     
+
+    
     // // 定义自动点击播放按钮函数
     // function userInteraction() {
     //     const playButton = document.querySelector(".xt_video_bit_play_btn");
